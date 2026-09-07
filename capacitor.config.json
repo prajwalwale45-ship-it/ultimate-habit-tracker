@@ -1,0 +1,6 @@
+{
+  "appId":"com.prajwal.ultimatetracker",
+  "appName":"Ultimate Habit & Study Tracker",
+  "webDir":"www",
+  "bundledWebRuntime":false
+}

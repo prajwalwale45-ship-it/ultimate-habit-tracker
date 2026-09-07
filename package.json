@@ -1,0 +1,12 @@
+{
+  "name":"ultimate-habit-study-tracker",
+  "version":"1.0.0",
+  "private":true,
+  "scripts":{
+    "sync":"npx cap sync",
+    "android":"npx cap open android",
+    "ios":"npx cap open ios"
+  },
+  "dependencies":{"@capacitor/core":"latest"},
+  "devDependencies":{"@capacitor/cli":"latest","@capacitor/android":"latest","@capacitor/ios":"latest"}
+}
